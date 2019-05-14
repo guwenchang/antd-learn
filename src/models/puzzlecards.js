@@ -6,7 +6,6 @@ const delay = (millisecond) => {
     setTimeout(resolve, millisecond);
   });
 };
-
 export default {
   namespace: 'puzzlecards',
   state: {
