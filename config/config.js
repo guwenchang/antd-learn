@@ -18,6 +18,10 @@ export default {
         path: '/helloworld',
         component: 'HelloWord'
       },
+      {
+        path: '/list',
+        component: '../page/list'
+      },
       { path: 'puzzlecards', component: './puzzlecards' },
 
       {
